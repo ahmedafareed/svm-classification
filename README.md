@@ -14,7 +14,8 @@ using the SVC class to create and adapt an SVM classifier to the given kernel an
 ### Model evaluation: 
 using the accuracy_score function to calculate the accuracy of the SVM classifier on the test set. we also use the plot_decision_region function of the mlxtend 
 library to plot the SVM classifier's decision boundaries on the scaled data, along with titles and legends. 
-## Implementation: attached with the report 
+## Implementation: 
+check the uploaded notebook 
 ## Conclusion:  
 • successfully applied the SVM algorithm to the multi-class classification problem on 6 synthetic data sets 
 • compared the performance of different kernels and regularization values for the SVM algorithm 
